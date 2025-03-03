@@ -193,12 +193,6 @@
       "cover": "RADWIMPS.jpg"
     },
     {
-      "title": "打上花火",
-      "artist": "DAOKO",
-      "audio": "打上花火.mp3",
-      "cover": "DAOKO.jpg"
-    },
-    {
       "title": "時代を越える想い",
       "artist": "RADWIMPS",
       "audio": "時代を越える想い.mp3",
@@ -616,13 +610,6 @@
     }
     ,
     {
-      "title": "Faded异域0.9x",
-      "artist": "麦斯米科尔森",
-      "audio": "faded异域.mp3",
-      "cover": "麦斯米科尔森.jpg"
-    }
-    ,
-    {
       "title": "Wonder What to Say",
       "artist": "Marc Torch",
       "audio": "Wonder What to Say.mp3",
@@ -720,10 +707,31 @@
     }
     ,
     {
-      "title": "Let Her Go (Magic Cover Release).mp3",
+      "title": "Let Her Go (Magic Cover Release)",
       "artist": "lost., Honeyfox, Pop Mage",
       "audio": "lost., Honeyfox, Pop Mage - Let Her Go (Magic Cover Release).mp3",
       "cover": "lost., Honeyfox, Pop Mage.jpg"
+    }
+    ,
+    {
+      "title": "火红的萨日朗",
+      "artist": "要不要买菜",
+      "audio": "火红的萨日朗，要不要买菜.mp3",
+      "cover": "要不要买菜.jpg"
+    }
+    ,
+    {
+      "title": "怎叹",
+      "artist": "郑鱼",
+      "audio": "怎叹，郑鱼.mp3",
+      "cover": "郑鱼.jpg"
+    }
+    ,
+    {
+      "title": "心经（日语）",
+      "artist": "一休寺",
+      "audio": "心经（日语），一休寺.mp3",
+      "cover": "一休寺.jpg"
     }
   ]
 }
