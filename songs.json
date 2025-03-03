@@ -729,9 +729,16 @@
     ,
     {
       "title": "心经（日语）",
-      "artist": "一休寺",
+      "artist": "药师寺宽邦",
       "audio": "心经（日语），一休寺.mp3",
-      "cover": "一休寺.jpg"
+      "cover": "药师寺宽邦.jpg"
+    }
+    ,
+    {
+      "title": "避瘟符咒",
+      "artist": "药师寺宽邦",
+      "audio": "避瘟符咒.mp3",
+      "cover": "药师寺宽邦.jpg"
     }
   ]
 }
